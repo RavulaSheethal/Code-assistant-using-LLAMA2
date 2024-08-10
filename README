@@ -1,0 +1,17 @@
+Code Assistant Using CodeLlama with LLAMA2 Large Language Model and Gradio
+
+Overview
+This project is an interactive code assistant application that leverages the CodeLlama model from LLAMA2 to provide intelligent programming assistance. The application is built using Gradio, which offers a user-friendly interface for seamless interaction.
+The Code Assistant allows users to input prompts and receive code-related responses, including code generation, completion, and debugging help. The application features a dark theme for better readability and a modern look.
+
+Features
+Interactive Code Assistance: Utilize the CodeLlama model to assist with various programming tasks.
+Gradio Interface: Easy-to-use web interface built with Gradio for interaction with the CodeLlama model.
+
+Prerequisites
+Ensure you have the following installed:
+Python 3.7 or higher
+requests library
+gradio library
+langchain
+ollama
